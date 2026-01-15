@@ -8,7 +8,7 @@
 🔭 I’m currently working on: [Project Name](https://github.com/yourname/project) — one-liner.  
 🌱 I’m learning: Systems design, Rust, ML Ops.  
 💬 Ask me about: JavaScript, TypeScript, React, Node.js.  
-��� Reach me: [email](mailto:you@example.com) · [Website](https://your-site.example)
+��� Reach me: [email](sharma.rishabh@northeastern.edu) · [Website](https://rio-rishabh.github.io/MyPortfolio.github.io/)
 
 ---
 

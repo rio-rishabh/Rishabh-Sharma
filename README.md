@@ -1,7 +1,7 @@
 # Rishabh-Sharma
 
 ```markdown
-# 👋 Hi, I’m Rishabh (rio-rishabh)
+# 👋 Hi, I’m Rishabh Sharma
 
 > Full-stack engineer building performant web apps and open-source tools.
 

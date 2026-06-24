@@ -1,33 +1,30 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=200&section=header&text=Hi,%20I'm%20[Your%20Name]!%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
-<h1 align="center">Hi, I'm Rishabh Sharma! 👋</h1>
-<h3 align="center">[Your Title] | [Specialty] | [Interest / Focus Area]</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Open-Source Builder</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /> </p>
 
-- 🌱 I’m currently learning **[Topic 1, Topic 2, Topic 3]**.
-- 👨‍🎓 [Your degree / role] at **[School or Company]** *([Start] - [End])*.
-- 🚀 Skills:
-  - **Programming:** [Java, Python, JavaScript, ...].
-  - **Frontend:** [React, Angular, Tailwind, ...].
-  - **Backend:** [Spring Boot, Node.js, Django, ...].
-  - **Databases:** [MySQL, PostgreSQL, MongoDB, ...].
-  - **Cloud & DevOps:** [AWS, Docker, Kubernetes, ...].
-  - **Testing & Tools:** [Jest, JUnit, Grafana, ...].
-  - **AI & Emerging Tech:** [LangChain, Hugging Face, ...].
+- 🌱 I’m currently diving deeper into **Distributed Systems, Cloud-Native Architecture, and Generative AI**.
+- 💡 I love turning ideas into clean, scalable products — and contributing to open source along the way.
+- 🤝 I’m always open to collaborating on interesting full-stack or AI projects.
+- ⚡ Fun fact: I think the best code is the code you end up deleting.
 
-- 💼 Experience:
-  - **[Role] – [Company] ([Dates])**  
-    [One-line summary of what you built and the impact, ideally with a metric.]
-  - **[Role] – [Company] ([Dates])**  
-    [One-line summary of what you built and the impact, ideally with a metric.]
+- 🚀 Skills:
+  - **Languages:** JavaScript, TypeScript, Python, Go, SQL.
+  - **Frontend:** React, Next.js, Tailwind CSS, Redux, HTML/CSS.
+  - **Backend:** Node.js, Express, FastAPI, REST, GraphQL, WebSockets.
+  - **Databases:** PostgreSQL, MongoDB, Redis, SQLite.
+  - **Cloud & DevOps:** AWS, Docker, Kubernetes, GitHub Actions, Terraform.
+  - **Testing & Tools:** Jest, Pytest, Playwright, Git, Linux.
+  - **AI & Emerging Tech:** OpenAI API, LangChain, Hugging Face, RAG pipelines.
 
 - 💻 Notable Projects:
-  - **[Project Name]:** [One-line description of what it does and the tech behind it.]
-  - **[Project Name]:** [One-line description of what it does and the tech behind it.]
-  - **[Project Name]:** [One-line description of what it does and the tech behind it.]
+  - **SnapBoard:** A real-time collaborative kanban board built with Next.js and WebSockets, supporting live multi-user editing.
+  - **DevFlow:** A CLI tool that automates common Git workflows and branch cleanup, cutting repetitive commands by half.
+  - **AskDocs:** An AI-powered document assistant using a RAG pipeline to answer questions across your personal notes and PDFs.
+  - **PennyPal:** A budgeting web app with spending insights, recurring-expense detection, and clean data visualizations.
 
 - 📫 How to reach me: **your.email@example.com**
 - 🌐 LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/your-handle/)
@@ -49,12 +46,16 @@
 
 <!-- Add or remove badges to match your stack. Find more at https://shields.io and https://simpleicons.org -->
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![React](https://img.shields.io/badge/React-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)

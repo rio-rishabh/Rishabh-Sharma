@@ -1,12 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=200&section=header&text=Hi,%20I'm%20Rishabh%20Sharma!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+![Banner](https://user-images.githubusercontent.com/74038190/238200428-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif)
 
+<h1 align="center">Hi, I'm Rishabh Sharma! 👋</h1>
 <h3 align="center">Software Engineer | Backend & Full-Stack Developer | AI / RAG Systems</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="rio-rishabh" /> </p>
 
-- 🎓 Pursuing my **MS in Software Engineering Systems** at **Northeastern University, Boston** *(May 2026)* — GPA 3.7/4.0.
+- 🎓 Earned my **MS in Software Engineering Systems** from **Northeastern University, Boston** *(2026)* — GPA 3.7/4.0.
 - 💼 **3+ years** building Java & Spring Boot backends, React & TypeScript frontends, and distributed microservices across **regulated finance and healthcare** environments.
 - 🤖 Hands-on with **production AI systems** — RAG pipelines, vector search, and MCP servers. Daily user of **Claude** and **Cursor**.
 - 🌱 Currently going deeper into **distributed systems, system design, and cloud-native AI applications**.
@@ -29,8 +30,8 @@
     Architected “Sentinel,” a TLS-backed, RBAC data-channel security layer for a regulated EHR environment (+25% data security); built event-driven Kafka pipelines achieving 99.99% reliability with zero message loss; engineered distributed Hadoop MapReduce jobs, cutting data-clustering latency by 40%.
 
 - 💻 Notable Projects:
-  - **[TabSense](https://github.com/rio-rishabh/tabsense) — AI-Powered Semantic Tab Search:** End-to-end production AI agent — Chrome Extension (MV3) client, Spring Boot GraphQL backend, and a full RAG pipeline (Playwright scraping, Gemini embeddings, cosine vector retrieval, OpenRouter generation). Cut information lookup from 3–5 minutes to 12–25 seconds, with Redis cache-aside dropping repeat-query latency 75–90%.
-  - **[Job Finder Web Scraper](https://github.com/rio-rishabh/job-finder-scraper):** A multi-service pipeline decoupling a TypeScript MCP server from a Java Spring Boot backend via a spec-first OpenAPI 3.0 contract, with prompt-driven Playwright scraping and an event-driven, deduplicated sync to the Notion API.
+  - **[TabSense](https://github.com/rio-rishabh/TabSense-AI-Powered-Semantic-Tab-Search) — AI-Powered Semantic Tab Search:** End-to-end production AI agent — Chrome Extension (MV3) client, Spring Boot GraphQL backend, and a full RAG pipeline (Playwright scraping, Gemini embeddings, cosine vector retrieval, OpenRouter generation). Cut information lookup from 3–5 minutes to 12–25 seconds, with Redis cache-aside dropping repeat-query latency 75–90%.
+  - **[JobScrapper](https://github.com/rio-rishabh/JobScrapper) — Job Finder Web Scraper:** A multi-service pipeline decoupling a TypeScript MCP server from a Java Spring Boot backend via a spec-first OpenAPI 3.0 contract, with prompt-driven Playwright scraping and an event-driven, deduplicated sync to the Notion API.
   - **[NimbusForge](https://github.com/rio-rishabh/nimbusforge):** A multi-AZ AWS environment provisioned from scratch with Terraform (VPC, ALB, Auto Scaling, PostgreSQL RDS with cross-AZ failover) achieving 99.9% uptime, plus a zero-downtime GitHub Actions CI/CD pipeline with canary refresh and a Packer immutable-AMI workflow.
 
 - 📫 How to reach me: **sharma.rishabh@northeastern.edu**
@@ -46,7 +47,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:sharma.rishabh@northeastern.edu" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="sharma.rishabh@northeastern.edu" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="sharma.rishabh@northeastern.edu" height="34" width="40" />
   </a>
 </p>
 

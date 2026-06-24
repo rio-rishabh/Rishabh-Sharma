@@ -3,6 +3,12 @@
 <h1 align="center">Hi, I'm Rishabh Sharma! 👋</h1>
 <h3 align="center">Software Engineer | Backend & Full-Stack Developer | AI / RAG Systems</h3>
 
+<p align="center">
+  <a href="https://rio-rishabh.github.io/MyPortfolio.github.io/" target="blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_View_My_Portfolio-0e75b6?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="rio-rishabh" /> </p>
@@ -32,11 +38,12 @@
 - 💻 Notable Projects:
   - **[TabSense](https://github.com/rio-rishabh/TabSense-AI-Powered-Semantic-Tab-Search) — AI-Powered Semantic Tab Search:** End-to-end production AI agent — Chrome Extension (MV3) client, Spring Boot GraphQL backend, and a full RAG pipeline (Playwright scraping, Gemini embeddings, cosine vector retrieval, OpenRouter generation). Cut information lookup from 3–5 minutes to 12–25 seconds, with Redis cache-aside dropping repeat-query latency 75–90%.
   - **[JobScrapper](https://github.com/rio-rishabh/JobScrapper) — Job Finder Web Scraper:** A multi-service pipeline decoupling a TypeScript MCP server from a Java Spring Boot backend via a spec-first OpenAPI 3.0 contract, with prompt-driven Playwright scraping and an event-driven, deduplicated sync to the Notion API.
-  - **[NimbusForge](https://github.com/rio-rishabh/nimbusforge):** A multi-AZ AWS environment provisioned from scratch with Terraform (VPC, ALB, Auto Scaling, PostgreSQL RDS with cross-AZ failover) achieving 99.9% uptime, plus a zero-downtime GitHub Actions CI/CD pipeline with canary refresh and a Packer immutable-AMI workflow.
+  - **NimbusForge:** A multi-AZ AWS environment provisioned from scratch with Terraform (VPC, ALB, Auto Scaling, PostgreSQL RDS with cross-AZ failover) achieving 99.9% uptime, plus a zero-downtime GitHub Actions CI/CD pipeline with canary refresh and a Packer immutable-AMI workflow.
 
 - 📫 How to reach me: **sharma.rishabh@northeastern.edu**
 - 🌐 LinkedIn: [linkedin.com/in/rishabhsharma7942](https://www.linkedin.com/in/rishabhsharma7942/)
 - 💻 GitHub: [github.com/rio-rishabh](https://github.com/rio-rishabh)
+- 🌐 Portfolio: [rio-rishabh.github.io/MyPortfolio](https://rio-rishabh.github.io/MyPortfolio.github.io/)
 - 📍 Boston, MA
 
 ## Connect with me:
